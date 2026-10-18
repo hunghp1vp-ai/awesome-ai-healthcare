@@ -79,6 +79,7 @@
 - **[Ginger](https://www.ginger.com/)** - AI-powered behavioral health coaching and therapy.
 - **[Mindstrong](https://mindstrong.com/)** - AI tools for tracking and managing mental health.
 - **[Cognoa](https://cognoa.com/)** - AI-based diagnostics for behavioral and developmental disorders.
+- **[Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571)** - An AI wellness companion for iOS with mood journaling, guided breathing and verified crisis helplines.
 
 ## Open Datasets
 
